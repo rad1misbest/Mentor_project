@@ -127,7 +127,7 @@ username,
 
  ## How to Use 
  1. Run the SQL script Mentor_Project.sql in your PostgreSQL environment.
- 2. 2. Explore or extend the queries to fit your analysis needs. 
+ 2.  Explore or extend the queries to fit your analysis needs. 
  ---
 
 
