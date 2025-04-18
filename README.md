@@ -117,16 +117,18 @@ username,
  ;
 ```
 
-## SQL Concepts Used - Aggregation (SUM(), COUNT(), AVG()) 
+## SQL Concepts Used 
+- Aggregation (SUM(), COUNT(), AVG()) 
 - Date/time functions (EXTRACT(), TO_CHAR())
 - CTEs (Common Table Expressions) 
 - Conditional expressions (CASE WHEN)
 - Window functions (ROW_NUMBER()) 
 ##
 
-
-
-
+ ## How to Use 
+ 1. Run the SQL script Mentor_Project.sql in your PostgreSQL environment.
+ 2. 2. Explore or extend the queries to fit your analysis needs. 
+ ---
 
 
 
